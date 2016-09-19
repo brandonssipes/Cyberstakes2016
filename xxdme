@@ -1,0 +1,7 @@
+This one is pretty simple. They give you a picture of a cat and it is called xxdme. 
+
+So simply open a terminal and go to the file and run xxd on it
+
+$ xxd xxdme.jpg
+
+at they bottom on the right is your key
