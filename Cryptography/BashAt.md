@@ -7,3 +7,6 @@ So they give you this file and it obviously isn't readable because it has been m
 should go through considering: Caesar, Vigenere, etc...  <br> OR <br> you could plug it in to the handy dandy good ol' <strong><a href="http://quipqiup.com/index.php">quipqiup</a></strong>
 <br> now if you just copy a could lines we can see what quipqiup does with it. <br> Ahh quipqiup you did it again.  This tells us both 
 the key and that it was an AtBash cipher (hence the name...)
+
+<br><br><br>
+if the day has come when that link has become dead because quipqiup is no longer with us, then I pray for your soul.
